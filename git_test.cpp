@@ -9,5 +9,6 @@ void int main(int argc, char const *argv[])
 }
 void add(int test2)
 {
-
+  int letmetest=0;
+  WTF
 }
